@@ -1,12 +1,12 @@
 const messages = [
     "Are you sure Mahotrma?",
     "Really sure, Khushi??",
-    "Are you positive?",
+    "Khushi Please don't do this?",
     "Puchhi please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
+    "Mera toh socho pucchi bina kesse rahunga m!",
+    "If you say no, Me sunshine mai hi pran tyag dunga...",
     "I will be very sad...",
-    "I will be very very very sad...",
+    "I will be very very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
